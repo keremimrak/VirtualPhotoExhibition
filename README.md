@@ -4,4 +4,6 @@ Virtual Photo Exhibition
 Every time the site is opened, you will see different images.
 
 
-![ResimSergisi](https://github.com/keremimrak/VirtualPhotoExhibition/assets/70068743/e7f44716-c413-43d4-b22d-c4d3adc9435a)
+
+
+![ResimSergisi](https://github.com/keremimrak/VirtualPhotoExhibition/assets/70068743/02b86a02-20ff-499f-8526-753f49affee2)
